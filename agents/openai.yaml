@@ -1,0 +1,4 @@
+interface:
+  display_name: "prompter"
+  short_description: "将任务描述与要求转化为可直接使用、结构清晰且有验收标准的提示词"
+  default_prompt: "请使用 $prompter，根据我描述的任务和要求生成可直接使用的提示词。"
