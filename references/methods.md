@@ -1,6 +1,6 @@
 # 方法选择
 
-本页是生成提示词时的选择参考，不是每次必须执行的流程。普通写作、格式转换等任务通常直接说明成果与限制即可。
+仅在用户点名方法，或任务确实需要比较、澄清与决策结构时查阅。方法用于解决具体缺口；普通写作、格式转换等任务直接说明成果与限制即可，无需先选一种方法。
 
 ## 文章方法的简要索引
 
@@ -35,6 +35,6 @@
 
 方法名称及用途参考数字生命卡兹克的《都Agent时代了，我还是想分享给你这12个我最常用的Prompt》：[微信原文](https://mp.weixin.qq.com/s/NAdhdFrUq9-BKelqzqpwBQ)。创建技能时原链接无法直接读取，依据[可访问的转载](https://forum.trae.cn/t/topic/177580)核对。此处是简要归纳，未复制原文长提示词。
 
-提示词设计同时参考 OpenAI 官方的 [Prompting](https://learn.chatgpt.com/docs/prompting) 与 [Rethinking skills and prompts for GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra)：表达目标和有效上下文，按需要添加约束，避免无益的流程堆叠。本技能没有限定某一个模型，也不沿用原文个别模板中的超长篇幅要求。
+v1.1 的默认使用场景为 GPT-6 Astra 极高推理，同时尊重用户指定的其他模型。方法名称不代表需要模拟专家身份、展示隐藏推理或启动多代理。优先表达目标和有效上下文，不沿用原文个别模板中的超长篇幅要求。维护依据与研究局限见 [版本记录](../CHANGELOG.md)。
 
-科研与写作场景的具体要求见 [场景适配](scenarios.md)，属于为本用户用途补充的设计，不声称来自上述文章。
+科研与写作场景的具体要求见 [场景适配](scenarios.md)，属于领域适配，不声称来自上述文章。
